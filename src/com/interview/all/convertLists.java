@@ -63,7 +63,7 @@ public class convertLists {
 				.collect(Collectors.toList());
 	}
 	
-	/*public static String timeInWords(int h, int m) {
+	public static String timeInWords(int h, int m) {
 	    // Write your code here
 		String[] minutesStrings = {"", "one ", "two ", "three ", "four ", "five ", "six ", "seven ", "eight ", "nine ","ten ", "eleven ", "twelve ", "thirteen ", "fourteen ", "quarter ", "sixteen ", "seventeen ", "eighteen ", "nineteen "};
 		java.time.LocalDate today = java.time.LocalDate.of(2020, 12, 1);
@@ -103,7 +103,7 @@ public class convertLists {
 	        }
 	        
 	            
-	    }*/
+	    }
 
 	public static void main(String[] args)
 	{
